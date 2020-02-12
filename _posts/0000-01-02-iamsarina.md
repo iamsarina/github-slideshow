@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"the sun will come out tomorrow"
 Use the left arrow to go back!
